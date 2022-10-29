@@ -183,8 +183,6 @@ ul {
   background-color: var(--accent-color);
 }
 
-/* ------------ГЕРОЙ-------------- */
-
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
@@ -247,8 +245,6 @@ ul {
   color: var(--accent-color);
 }
 
-/* ------------ПРЕИМУЩЕСТВА-------------- */
-
 .features-section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -296,7 +292,6 @@ ul {
   color: var(--secondary-text-color);
 }
 
-/* ------------СПИСОК ЗАНЯТИЙ-------------- */
 .work-section {
   padding-bottom: 94px;
 }
@@ -334,7 +329,6 @@ ul {
   color: var(--white-text-color);
   background-color: rgba(47, 48, 58, 0.8);
 }
-/* ----------------КОМАНДА----------------- */
 
 .team-section {
   padding-top: 94px;
@@ -418,7 +412,6 @@ ul {
   fill: currentColor;
 }
 
-/* ---------------КЛИЕНТЫ---------------- */
 .client-section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -485,8 +478,6 @@ ul {
   color: var(--accent-color);
   border-color: var(--accent-color);
 }
-
-/* ----------------ПОДВАЛ----------------- */
 
 .footer {
   padding-top: 60px;
@@ -772,7 +763,7 @@ ul {
   color: var(--secondary-text-color);
 }
 
-/* ----------------MODAL--------------------- */
+/* --MODAL-- */
 
 .backdrop {
   position: fixed;

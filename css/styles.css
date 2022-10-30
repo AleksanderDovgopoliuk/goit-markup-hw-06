@@ -866,7 +866,7 @@ ul {
 .form-input {
   width: 100%;
   margin: 0;
-  padding: 11px 42px;
+  padding: 11px 40px;
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
 
@@ -952,7 +952,7 @@ textarea:focus {
 }
 
 .form-checkbox:checked + .icon-chek {
-  background-image: url(../images/icon-check.svg);
+  background-image: url(../images/check.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-color: var(--accent-color);
